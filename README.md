@@ -1,4 +1,4 @@
-# Olá! Eu sou o Oloc 🔥
+# Olá! Eu sou o Kdu 🔥
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://Carloseduardosilva0750@gmail.com) [![YouTube](https://img.shields.io/badge/Kdu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCziNGcYnk0JO_9tlb8zxCOw) [![Discord](https://img.shields.io/badge/Kdu_%231279-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://Discord.com)
 
