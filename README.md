@@ -13,3 +13,5 @@
 #### -[Meu Primeiro Jogo](https://github.com/Ol0c/Moderador-De-Ciclo)<br/>
 #### -[Fogo Doom](https://github.com/Ol0c/Fogo-Doom)<br/>
 #### -[Random Game](https://github.com/Ol0c/Random-Game)<br/>
+#### -[Cartoon Python](https://github.com/Ol0c/Cartoon-Python)<br/>
+#### -[DVD Screensaver](https://github.com/Ol0c/DVD-Screensaver)<br/>
