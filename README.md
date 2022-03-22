@@ -11,7 +11,8 @@
 
 ## Repositorios 🧑‍🚀
 #### -[YouTube Downloader](https://github.com/Kadu-H/youtube-downloader)<br/>
-#### -[Fogo Doom](https://github.com/Ol0c/Fogo-Doom)<br/>
-#### -[Random Game](https://github.com/Ol0c/Random-Game)<br/>
-#### -[Cartoon Python](https://github.com/Ol0c/Cartoon-Python)<br/>
-#### -[DVD Screensaver](https://github.com/Ol0c/DVD-Screensaver)<br/>
+#### -[Relogio](https://github.com/Kadu-H/Relogio)<br/>
+#### -[Fogo Doom](https://github.com/Kadu-H/Fogo-Doom)<br/>
+#### -[Random Game](https://github.com/Kadu-H/Random-Game)<br/>
+#### -[Cartoon Python](https://github.com/Kadu-H/Cartoon-Python)<br/>
+#### -[DVD Screensaver](https://github.com/Kadu-H/DVD-Screensaver)<br/>
