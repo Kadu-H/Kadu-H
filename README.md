@@ -10,6 +10,7 @@
 
 
 ## Repositorios 🧑‍🚀
+#### -[Editor de Texto](https://github.com/Kadu-H/Editor-de-texto)<br/>
 #### -[Fogo Doom](https://github.com/Kadu-H/Fogo-Doom)<br/>
 #### -[Relogio](https://github.com/Kadu-H/Relogio)<br/>
 #### -[Random Game](https://github.com/Kadu-H/Random-Game)<br/>
