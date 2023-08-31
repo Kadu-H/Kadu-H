@@ -10,6 +10,8 @@
 
 
 ## Repositorios 🧑‍🚀
+#### -[FinanceGestor](https://github.com/Kadu-H/FinanceGestor)<br/>
+#### -[QrChat](https://github.com/Kadu-H/QrChat)<br/>
 #### -[CrypText](https://github.com/Kadu-H/CrypText)<br/>
 #### -[KduNote](https://github.com/Kadu-H/KduNote)<br/>
 #### -[Editor de Texto](https://github.com/Kadu-H/Editor-de-texto)<br/>
