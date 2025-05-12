@@ -13,11 +13,4 @@
 # Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-H&show_icons=true&theme=transparent) 
 
-
-## Repositorios 🧑‍🚀
-#### -[FinanceGestor](https://github.com/Kadu-H/FinanceGestor)<br/>
-#### -[QrChat](https://github.com/Kadu-H/QrChat)<br/>
-#### -[CrypText](https://github.com/Kadu-H/CrypText)<br/>
-#### -[KduNote](https://github.com/Kadu-H/KduNote)<br/>
-#### -[Editor de Texto](https://github.com/Kadu-H/Editor-de-texto)<br/>
-#### -[Fogo Doom](https://github.com/Kadu-H/Fogo-Doom)<br/>
+![snake gif](https://github.com/Kadu-H/Kadu-H/blob/output/github-contribution-grid-snake.svg)
