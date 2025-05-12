@@ -12,5 +12,3 @@
 
 # Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-H&show_icons=true&theme=transparent) 
-
-![snake gif](https://github.com/Kadu-H/Kadu-H/blob/output/github-contribution-grid-snake.svg)
